@@ -6,6 +6,7 @@
 ## 2. How to integrate database with AI. (RAG)
 ### RAG ? AI가 모르는 내 데이터/문서를 검색해서 답변하게 만드는 구조.
 #### - Embedding 개념
+  - ㅇㅇ
 #### - Vector DB 개념
 #### - 간단한 Q&A 만들기
 #### - RAG 고도화
